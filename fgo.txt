@@ -59,7 +59,7 @@ Tamamo Cat
 Jeanne dArc
 Artemis
 Orion
-Elizabeth Halloween
+Elizabeth Bathory Caster
 Tamamo no Mae
 David
 Hector
@@ -135,7 +135,7 @@ Kiyohime Lancer
 Martha Ruler
 Illyasviel von Einzbern
 Chloe von Einzbern
-Elizabeth Brave
+Elizabeth Bathory Saber
 Cleopatra
 Vlad III Extra
 Jeanne dArc Alter Santa Lily
@@ -179,7 +179,7 @@ Ishtar Rider
 Parvati
 Tomoe Gozen
 Chiyome
-Hozouin Inshun
+Hozoin Inshun
 Munenori Yagyu
 Kato Danzou
 Osakabehime
@@ -226,7 +226,7 @@ Qin Shi Huang
 Consort Yu
 Red Hare
 Bradamante
-Quetzalcoatl Santa
+Quetzalcoatl Ruler
 Benienma
 Li Shuwen Assassin
 Miyu Edelfelt
@@ -265,7 +265,7 @@ Space Ishtar
 Astarte
 Calamity Jane
 Astolfo Saber
-Nightingale Santa
+Nightingale Archer
 Super Orion
 Mandricardo
 Europa
@@ -290,6 +290,10 @@ Tomoe Gozen Saber
 Murasaki Shikibu Rider
 Abigail Williams Summer
 Xu Fu
+Proto Merlin
+Himiko
+Saito Hajime
+Oda Nobukatsu
 Muramasa
 Rasputin
 Tamamo Vitch

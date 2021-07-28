@@ -282,6 +282,7 @@ Surtr
 Voyager
 Kijyo Koyo
 Utsumi Erice
+Artoria Caster
 Consort Yu Lancer
 Brynhildr Berserker
 Illyasviel von Einzbern Archer
@@ -297,6 +298,7 @@ Oda Nobukatsu
 Van Gogh
 Watanabe no Tsuna
 Ibuki Douji
+Karna Saber
 Muramasa
 Taira no Kagekiyo
 Kiichi Hogen
@@ -304,6 +306,13 @@ Caren C Hortensia
 Galatea
 Miss Crane
 Mysterious Idol X Alter
+Morgan
+Barghest
+Baobhan Sith
+Melusine
+Percival
+Habetrot
+Oberon
 Rasputin
 Tamamo Vitch
 Ashiya Douman
@@ -330,7 +339,7 @@ Fragments of 2030
 Aerial Drive
 Black Grail
 Holy Grail
-Chaldean Dreamfire
+Chaldean Visionary Flames
 Chaldea
 Command Seal
 Command Code

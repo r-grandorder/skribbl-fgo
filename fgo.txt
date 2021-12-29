@@ -288,7 +288,8 @@ Brynhildr Berserker
 Illyasviel von Einzbern Archer
 Sessyoin Kiara Mooncancer
 Tomoe Gozen Saber
-Murasaki Shikibu Rider
+Murasaki 
+Shikibu Rider
 Abigail Williams Summer
 Xu Fu
 Proto Merlin
@@ -312,12 +313,24 @@ Baobhan Sith
 Melusine
 Percival
 Habetrot
+Koyanskaya of Light
 Oberon
+Okita Souji Saber Alter
+Anastasia and Viy
+Charlotte Corday Caster
+Leonardo da Vinci Ruler
+Kama Avenger
+Caenis Rider
+Sei Shonagon Berserker
+Zenobia
+Elizabeth Bathory Cinderella
+Izumo no Okuni
+Mysterious Ranmaru X
+Martha Santa
+Tai Gong Wang
+Dobrynya Nikitich
 Rasputin
-Tamamo Vitch
 Ashiya Douman
-Maxwells Demon
-Akechi Mitsuhide
 Sion
 Nemo
 Goddess Rhongomyniad
